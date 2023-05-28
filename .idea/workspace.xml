@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ba5bfd83-5576-42e4-8eb9-4d3f82c1b22e" name="Changes" comment="" />
+    <list default="true" id="ba5bfd83-5576-42e4-8eb9-4d3f82c1b22e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/design_pattern/application/core/domain/pedido/Pedido.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/design_pattern/application/core/domain/pedido/Pedido.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,61 +59,65 @@
       <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.design_pattern.application.core.domain.pedido" />
       <recent name="com.design_pattern.application.core.domain.frete" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.FreteExpressoTest">
-    <configuration name="FreteComumTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.All in design_pattern (3)">
+    <configuration name="All in design_pattern (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="design_pattern" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.design_pattern.application.core.domain.frete.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.design_pattern.application.core.domain.frete" />
-      <option name="MAIN_CLASS_NAME" value="com.design_pattern.application.core.domain.frete.FreteComumTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FreteExpressoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="All in design_pattern (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="design_pattern" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.design_pattern.application.core.domain.frete.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.design_pattern.application.core.domain.frete" />
-      <option name="MAIN_CLASS_NAME" value="com.design_pattern.application.core.domain.frete.FreteExpressoTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FreteExpressoTest.calcularFreteExpresso" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="All in design_pattern (3)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="design_pattern" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in design_pattern" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="design_pattern" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PedidoEletronicosTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="design_pattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.design_pattern.application.core.domain.frete.*" />
+          <option name="PATTERN" value="com.design_pattern.application.core.domain.pedido.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.design_pattern.application.core.domain.frete" />
-      <option name="MAIN_CLASS_NAME" value="com.design_pattern.application.core.domain.frete.FreteExpressoTest" />
-      <option name="METHOD_NAME" value="calcularFreteExpresso" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="PACKAGE_NAME" value="com.design_pattern.application.core.domain.pedido" />
+      <option name="MAIN_CLASS_NAME" value="com.design_pattern.application.core.domain.pedido.PedidoEletronicosTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.FreteExpressoTest" />
-        <item itemvalue="JUnit.FreteExpressoTest.calcularFreteExpresso" />
-        <item itemvalue="JUnit.FreteComumTest" />
+        <item itemvalue="JUnit.All in design_pattern (3)" />
+        <item itemvalue="JUnit.All in design_pattern (2)" />
+        <item itemvalue="JUnit.All in design_pattern (1)" />
+        <item itemvalue="JUnit.PedidoEletronicosTest" />
+        <item itemvalue="JUnit.All in design_pattern" />
       </list>
     </recent_temporary>
   </component>
@@ -135,5 +142,14 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/design_pattern$All_in_design_pattern.ic" NAME="All in design_pattern Coverage Results" MODIFIED="1685313532600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/design_pattern$FreteExpressoTest.ic" NAME="FreteExpressoTest Coverage Results" MODIFIED="1685312669486" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.design_pattern.application.core.domain.frete.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/design_pattern$FreteComumTest.ic" NAME="FreteComumTest Coverage Results" MODIFIED="1685312377705" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.design_pattern.application.core.domain.frete.*</FILTER>
+    </SUITE>
   </component>
 </project>
