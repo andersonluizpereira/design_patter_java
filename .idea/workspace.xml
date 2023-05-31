@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="ba5bfd83-5576-42e4-8eb9-4d3f82c1b22e" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/design_pattern/application/core/domain/frete/FreteComumTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/design_pattern/application/core/domain/frete/FreteComumTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/design_pattern/application/core/domain/frete/FreteExpressoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/design_pattern/application/core/domain/frete/FreteExpressoTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,23 +67,7 @@
       <recent name="com.design_pattern.application.core.domain.frete" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.All in design_pattern (3)">
-    <configuration name="All in design_pattern (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="design_pattern" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="TEST_OBJECT" value="package" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="All in design_pattern (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="design_pattern" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="TEST_OBJECT" value="package" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.FreteExpressoTest.calcularFreteExpresso">
     <configuration name="All in design_pattern (3)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="design_pattern" />
       <option name="PACKAGE_NAME" value="" />
@@ -98,28 +84,61 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PedidoEletronicosTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="FreteComumTest.calcularFreteComunComValorPedidoNull" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="design_pattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.design_pattern.application.core.domain.pedido.*" />
+          <option name="PATTERN" value="com.design_pattern.application.core.domain.frete.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.design_pattern.application.core.domain.pedido" />
-      <option name="MAIN_CLASS_NAME" value="com.design_pattern.application.core.domain.pedido.PedidoEletronicosTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="com.design_pattern.application.core.domain.frete" />
+      <option name="MAIN_CLASS_NAME" value="com.design_pattern.application.core.domain.frete.FreteComumTest" />
+      <option name="METHOD_NAME" value="calcularFreteComunComValorPedidoNull" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FreteComumTest.calcularFreteComunComValorPedidoVazio" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="design_pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.design_pattern.application.core.domain.frete.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.design_pattern.application.core.domain.frete" />
+      <option name="MAIN_CLASS_NAME" value="com.design_pattern.application.core.domain.frete.FreteComumTest" />
+      <option name="METHOD_NAME" value="calcularFreteComunComValorPedidoVazio" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FreteExpressoTest.calcularFreteExpresso" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="design_pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.design_pattern.application.core.domain.frete.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.design_pattern.application.core.domain.frete" />
+      <option name="MAIN_CLASS_NAME" value="com.design_pattern.application.core.domain.frete.FreteExpressoTest" />
+      <option name="METHOD_NAME" value="calcularFreteExpresso" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.All in design_pattern (3)" />
-        <item itemvalue="JUnit.All in design_pattern (2)" />
-        <item itemvalue="JUnit.All in design_pattern (1)" />
-        <item itemvalue="JUnit.PedidoEletronicosTest" />
+        <item itemvalue="JUnit.FreteExpressoTest.calcularFreteExpresso" />
+        <item itemvalue="JUnit.FreteComumTest.calcularFreteComunComValorPedidoVazio" />
         <item itemvalue="JUnit.All in design_pattern" />
+        <item itemvalue="JUnit.FreteComumTest.calcularFreteComunComValorPedidoNull" />
+        <item itemvalue="JUnit.All in design_pattern (3)" />
       </list>
     </recent_temporary>
   </component>

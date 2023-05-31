@@ -30,4 +30,16 @@ class FreteComumTest {
         assertEquals(TAXA_DE_FRETE_COMUM_ZERO,
                 freteComum.calcula(VALOR_PEDIDO_CALCULAR_COM_FRETE_COMUM_ZERO));
     }
+
+    @Test
+    void calcularFreteComunComValorPedidoNegativo() {
+        assertEquals(-TAXA_DE_FRETE_COMUM,
+                freteComum.calcula(-VALOR_PEDIDO_CALCULAR_COM_FRETE_COMUM));
+    }
+
+    @Test
+    void calcularFreteComunComValorPedidoVazio() {
+        assertNotEquals(null,
+                freteComum.calcula(-VALOR_PEDIDO_CALCULAR_COM_FRETE_COMUM));
+    }
 }
