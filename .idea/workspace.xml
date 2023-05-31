@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ba5bfd83-5576-42e4-8eb9-4d3f82c1b22e" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/design_pattern/application/core/domain/pedido/Pedido.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/design_pattern/application/core/domain/pedido/Pedido.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +14,9 @@
   </component>
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
+  </component>
+  <component name="CoverageOptionsProvider">
+    <option name="myAddOrReplace" value="1" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -145,9 +147,12 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/design_pattern$All_in_design_pattern.ic" NAME="All in design_pattern Coverage Results" MODIFIED="1685313532600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/design_pattern$All_in_design_pattern__3_.ic" NAME="All in design_pattern (3) Coverage Results" MODIFIED="1685314030287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/design_pattern$FreteExpressoTest.ic" NAME="FreteExpressoTest Coverage Results" MODIFIED="1685312669486" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>com.design_pattern.application.core.domain.frete.*</FILTER>
     </SUITE>
+    <SUITE FILE_PATH="coverage/design_pattern$All_in_design_pattern__1_.ic" NAME="All in design_pattern (1) Coverage Results" MODIFIED="1685313931570" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/design_pattern$All_in_design_pattern__2_.ic" NAME="All in design_pattern (2) Coverage Results" MODIFIED="1685313992436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/design_pattern$FreteComumTest.ic" NAME="FreteComumTest Coverage Results" MODIFIED="1685312377705" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>com.design_pattern.application.core.domain.frete.*</FILTER>
     </SUITE>

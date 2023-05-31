@@ -7,10 +7,10 @@ import static org.junit.jupiter.api.Assertions.*;
 
 class FreteComumTest {
 
-    public static final double TAXA_DE_FRETE_COMUM = 5.0;
-    public static final double VALOR_PEDIDO_CALCULAR_COM_FRETE_COMUM = 100.0;
-    public static final double TAXA_DE_FRETE_COMUM_ZERO = 0.0;
-    public static final double VALOR_PEDIDO_CALCULAR_COM_FRETE_COMUM_ZERO = 0.0;
+    private static final double TAXA_DE_FRETE_COMUM = 5.0;
+    private static final double VALOR_PEDIDO_CALCULAR_COM_FRETE_COMUM = 100.0;
+    private static final double TAXA_DE_FRETE_COMUM_ZERO = 0.0;
+    private static final double VALOR_PEDIDO_CALCULAR_COM_FRETE_COMUM_ZERO = 0.0;
 
     private FreteComum freteComum;
 
