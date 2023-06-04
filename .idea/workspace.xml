@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ba5bfd83-5576-42e4-8eb9-4d3f82c1b22e" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/design_pattern/application/core/domain/frete/FreteComumTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/design_pattern/application/core/domain/frete/FreteComumTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/design_pattern/application/core/domain/frete/FreteExpressoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/design_pattern/application/core/domain/frete/FreteExpressoTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,17 +45,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "OverrideImplement.generate.javadoc": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "dart.analysis.tool.window.visible": "false",
-    "show.migrate.to.gradle.popup": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;OverrideImplement.generate.javadoc&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -67,8 +65,8 @@
       <recent name="com.design_pattern.application.core.domain.frete" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.FreteExpressoTest.calcularFreteExpresso">
-    <configuration name="All in design_pattern (3)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.All in design_pattern (1)">
+    <configuration name="All in design_pattern (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="design_pattern" />
       <option name="PACKAGE_NAME" value="" />
       <option name="TEST_OBJECT" value="package" />
@@ -134,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.All in design_pattern (1)" />
         <item itemvalue="JUnit.FreteExpressoTest.calcularFreteExpresso" />
         <item itemvalue="JUnit.FreteComumTest.calcularFreteComunComValorPedidoVazio" />
         <item itemvalue="JUnit.All in design_pattern" />
         <item itemvalue="JUnit.FreteComumTest.calcularFreteComunComValorPedidoNull" />
-        <item itemvalue="JUnit.All in design_pattern (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -165,12 +163,12 @@
     </option>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/design_pattern$All_in_design_pattern.ic" NAME="All in design_pattern Coverage Results" MODIFIED="1685313532600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
-    <SUITE FILE_PATH="coverage/design_pattern$All_in_design_pattern__3_.ic" NAME="All in design_pattern (3) Coverage Results" MODIFIED="1685314030287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/design_pattern$FreteExpressoTest.ic" NAME="FreteExpressoTest Coverage Results" MODIFIED="1685312669486" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>com.design_pattern.application.core.domain.frete.*</FILTER>
     </SUITE>
-    <SUITE FILE_PATH="coverage/design_pattern$All_in_design_pattern__1_.ic" NAME="All in design_pattern (1) Coverage Results" MODIFIED="1685313931570" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/design_pattern$All_in_design_pattern__3_.ic" NAME="All in design_pattern (3) Coverage Results" MODIFIED="1685314030287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/design_pattern$All_in_design_pattern__1_.ic" NAME="All in design_pattern (1) Coverage Results" MODIFIED="1685574383445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/design_pattern$All_in_design_pattern.ic" NAME="All in design_pattern Coverage Results" MODIFIED="1685313532600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/design_pattern$All_in_design_pattern__2_.ic" NAME="All in design_pattern (2) Coverage Results" MODIFIED="1685313992436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/design_pattern$FreteComumTest.ic" NAME="FreteComumTest Coverage Results" MODIFIED="1685312377705" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>com.design_pattern.application.core.domain.frete.*</FILTER>
