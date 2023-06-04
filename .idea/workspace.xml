@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ba5bfd83-5576-42e4-8eb9-4d3f82c1b22e" name="Changes" comment="" />
+    <list default="true" id="ba5bfd83-5576-42e4-8eb9-4d3f82c1b22e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,19 +61,13 @@
       <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.design_pattern.application.core.domain.pagamento" />
+      <recent name="com.design_pattern.application.core.domain.gateway" />
       <recent name="com.design_pattern.application.core.domain.pedido" />
       <recent name="com.design_pattern.application.core.domain.frete" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.All in design_pattern (1)">
-    <configuration name="All in design_pattern (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="design_pattern" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="TEST_OBJECT" value="package" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.All in design_pattern">
     <configuration name="All in design_pattern" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="design_pattern" />
       <option name="PACKAGE_NAME" value="" />
@@ -80,49 +76,63 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FreteComumTest.calcularFreteComunComValorPedidoNull" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PagamentoDebitoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="design_pattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.design_pattern.application.core.domain.frete.*" />
+          <option name="PATTERN" value="com.design_pattern.application.core.domain.pagamento.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.design_pattern.application.core.domain.frete" />
-      <option name="MAIN_CLASS_NAME" value="com.design_pattern.application.core.domain.frete.FreteComumTest" />
-      <option name="METHOD_NAME" value="calcularFreteComunComValorPedidoNull" />
+      <option name="PACKAGE_NAME" value="com.design_pattern.application.core.domain.pagamento" />
+      <option name="MAIN_CLASS_NAME" value="com.design_pattern.application.core.domain.pagamento.PagamentoDebitoTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PagamentoDebitoTest.calcularTaxa" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="design_pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.design_pattern.application.core.domain.pagamento.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.design_pattern.application.core.domain.pagamento" />
+      <option name="MAIN_CLASS_NAME" value="com.design_pattern.application.core.domain.pagamento.PagamentoDebitoTest" />
+      <option name="METHOD_NAME" value="calcularTaxa" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FreteComumTest.calcularFreteComunComValorPedidoVazio" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PagamentoDinheiroTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="design_pattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.design_pattern.application.core.domain.frete.*" />
+          <option name="PATTERN" value="com.design_pattern.application.core.domain.pagamento.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.design_pattern.application.core.domain.frete" />
-      <option name="MAIN_CLASS_NAME" value="com.design_pattern.application.core.domain.frete.FreteComumTest" />
-      <option name="METHOD_NAME" value="calcularFreteComunComValorPedidoVazio" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="PACKAGE_NAME" value="com.design_pattern.application.core.domain.pagamento" />
+      <option name="MAIN_CLASS_NAME" value="com.design_pattern.application.core.domain.pagamento.PagamentoDinheiroTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FreteExpressoTest.calcularFreteExpresso" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PagamentoDinheiroTest.calcularDesconto" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="design_pattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.design_pattern.application.core.domain.frete.*" />
+          <option name="PATTERN" value="com.design_pattern.application.core.domain.pagamento.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.design_pattern.application.core.domain.frete" />
-      <option name="MAIN_CLASS_NAME" value="com.design_pattern.application.core.domain.frete.FreteExpressoTest" />
-      <option name="METHOD_NAME" value="calcularFreteExpresso" />
+      <option name="PACKAGE_NAME" value="com.design_pattern.application.core.domain.pagamento" />
+      <option name="MAIN_CLASS_NAME" value="com.design_pattern.application.core.domain.pagamento.PagamentoDinheiroTest" />
+      <option name="METHOD_NAME" value="calcularDesconto" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -130,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.All in design_pattern (1)" />
-        <item itemvalue="JUnit.FreteExpressoTest.calcularFreteExpresso" />
-        <item itemvalue="JUnit.FreteComumTest.calcularFreteComunComValorPedidoVazio" />
         <item itemvalue="JUnit.All in design_pattern" />
-        <item itemvalue="JUnit.FreteComumTest.calcularFreteComunComValorPedidoNull" />
+        <item itemvalue="JUnit.PagamentoDinheiroTest" />
+        <item itemvalue="JUnit.PagamentoDinheiroTest.calcularDesconto" />
+        <item itemvalue="JUnit.PagamentoDebitoTest" />
+        <item itemvalue="JUnit.PagamentoDebitoTest.calcularTaxa" />
       </list>
     </recent_temporary>
   </component>
@@ -165,9 +175,15 @@
       <FILTER>com.design_pattern.application.core.domain.frete.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/design_pattern$All_in_design_pattern__3_.ic" NAME="All in design_pattern (3) Coverage Results" MODIFIED="1685314030287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/design_pattern$PagamentoDebitoTest.ic" NAME="PagamentoDebitoTest Coverage Results" MODIFIED="1685920950480" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.design_pattern.application.core.domain.pagamento.*</FILTER>
+    </SUITE>
     <SUITE FILE_PATH="coverage/design_pattern$All_in_design_pattern__1_.ic" NAME="All in design_pattern (1) Coverage Results" MODIFIED="1685574383445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/design_pattern$All_in_design_pattern.ic" NAME="All in design_pattern Coverage Results" MODIFIED="1685313532600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/design_pattern$All_in_design_pattern__2_.ic" NAME="All in design_pattern (2) Coverage Results" MODIFIED="1685313992436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/design_pattern$PagamentoCreditoTest.ic" NAME="PagamentoCreditoTest Coverage Results" MODIFIED="1685920675468" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.design_pattern.application.core.domain.pagamento.*</FILTER>
+    </SUITE>
     <SUITE FILE_PATH="coverage/design_pattern$FreteComumTest.ic" NAME="FreteComumTest Coverage Results" MODIFIED="1685312377705" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>com.design_pattern.application.core.domain.frete.*</FILTER>
     </SUITE>
