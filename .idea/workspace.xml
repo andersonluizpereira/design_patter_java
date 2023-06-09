@@ -179,7 +179,7 @@
       <FILTER>com.design_pattern.application.core.domain.pagamento.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/design_pattern$All_in_design_pattern__1_.ic" NAME="All in design_pattern (1) Coverage Results" MODIFIED="1685574383445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
-    <SUITE FILE_PATH="coverage/design_pattern$All_in_design_pattern.ic" NAME="All in design_pattern Coverage Results" MODIFIED="1685313532600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/design_pattern$All_in_design_pattern.ic" NAME="All in design_pattern Coverage Results" MODIFIED="1685921214910" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/design_pattern$All_in_design_pattern__2_.ic" NAME="All in design_pattern (2) Coverage Results" MODIFIED="1685313992436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/design_pattern$PagamentoCreditoTest.ic" NAME="PagamentoCreditoTest Coverage Results" MODIFIED="1685920675468" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>com.design_pattern.application.core.domain.pagamento.*</FILTER>
