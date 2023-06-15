@@ -61,13 +61,17 @@
       <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.design_pattern.application.core.domain" />
       <recent name="com.design_pattern.application.core.domain.pagamento" />
       <recent name="com.design_pattern.application.core.domain.gateway" />
       <recent name="com.design_pattern.application.core.domain.pedido" />
       <recent name="com.design_pattern.application.core.domain.frete" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.design_pattern.application.core.domain" />
+    </key>
   </component>
-  <component name="RunManager" selected="JUnit.All in design_pattern">
+  <component name="RunManager" selected="JUnit.NewsletterTest">
     <configuration name="All in design_pattern" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="design_pattern" />
       <option name="PACKAGE_NAME" value="" />
@@ -76,32 +80,48 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PagamentoDebitoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="NewsletterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="design_pattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.design_pattern.application.core.domain.pagamento.*" />
+          <option name="PATTERN" value="com.design_pattern.application.core.domain.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.design_pattern.application.core.domain.pagamento" />
-      <option name="MAIN_CLASS_NAME" value="com.design_pattern.application.core.domain.pagamento.PagamentoDebitoTest" />
+      <option name="PACKAGE_NAME" value="com.design_pattern.application.core.domain" />
+      <option name="MAIN_CLASS_NAME" value="com.design_pattern.application.core.domain.NewsletterTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PagamentoDebitoTest.calcularTaxa" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="NewsletterTest.addMensagem" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="design_pattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.design_pattern.application.core.domain.pagamento.*" />
+          <option name="PATTERN" value="com.design_pattern.application.core.domain.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.design_pattern.application.core.domain.pagamento" />
-      <option name="MAIN_CLASS_NAME" value="com.design_pattern.application.core.domain.pagamento.PagamentoDebitoTest" />
-      <option name="METHOD_NAME" value="calcularTaxa" />
+      <option name="PACKAGE_NAME" value="com.design_pattern.application.core.domain" />
+      <option name="MAIN_CLASS_NAME" value="com.design_pattern.application.core.domain.NewsletterTest" />
+      <option name="METHOD_NAME" value="addMensagem" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NewsletterTest.removeObserver" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="design_pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.design_pattern.application.core.domain.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.design_pattern.application.core.domain" />
+      <option name="MAIN_CLASS_NAME" value="com.design_pattern.application.core.domain.NewsletterTest" />
+      <option name="METHOD_NAME" value="removeObserver" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -122,29 +142,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PagamentoDinheiroTest.calcularDesconto" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="design_pattern" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.design_pattern.application.core.domain.pagamento.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.design_pattern.application.core.domain.pagamento" />
-      <option name="MAIN_CLASS_NAME" value="com.design_pattern.application.core.domain.pagamento.PagamentoDinheiroTest" />
-      <option name="METHOD_NAME" value="calcularDesconto" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.NewsletterTest" />
+        <item itemvalue="JUnit.NewsletterTest.removeObserver" />
+        <item itemvalue="JUnit.NewsletterTest.addMensagem" />
         <item itemvalue="JUnit.All in design_pattern" />
         <item itemvalue="JUnit.PagamentoDinheiroTest" />
-        <item itemvalue="JUnit.PagamentoDinheiroTest.calcularDesconto" />
-        <item itemvalue="JUnit.PagamentoDebitoTest" />
-        <item itemvalue="JUnit.PagamentoDebitoTest.calcularTaxa" />
       </list>
     </recent_temporary>
   </component>
@@ -173,6 +177,9 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/design_pattern$FreteExpressoTest.ic" NAME="FreteExpressoTest Coverage Results" MODIFIED="1685312669486" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>com.design_pattern.application.core.domain.frete.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/design_pattern$NewsletterTest.ic" NAME="NewsletterTest Coverage Results" MODIFIED="1686789022793" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.design_pattern.application.core.domain.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/design_pattern$All_in_design_pattern__3_.ic" NAME="All in design_pattern (3) Coverage Results" MODIFIED="1685314030287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/design_pattern$PagamentoDebitoTest.ic" NAME="PagamentoDebitoTest Coverage Results" MODIFIED="1685920950480" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
