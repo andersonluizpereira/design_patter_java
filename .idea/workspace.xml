@@ -6,6 +6,15 @@
   <component name="ChangeListManager">
     <list default="true" id="ba5bfd83-5576-42e4-8eb9-4d3f82c1b22e" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/design_pattern/application/core/domain/Cliente.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/design_pattern/application/core/domain/Email.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/design_pattern/application/core/domain/Fornecedor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/design_pattern/application/core/domain/Funcionario.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/design_pattern/application/core/domain/Newsletter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/design_pattern/application/core/domain/Observer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/design_pattern/application/core/domain/Parceiro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/design_pattern/application/core/domain/Subject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/design_pattern/application/core/domain/NewsletterTest.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,9 +30,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JUnit5 Test Class" />
         <option value="Interface" />
         <option value="Class" />
-        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -174,11 +183,22 @@
       </map>
     </option>
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/design_pattern/application/core/domain/CanceladoState.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/design_pattern$FreteExpressoTest.ic" NAME="FreteExpressoTest Coverage Results" MODIFIED="1685312669486" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>com.design_pattern.application.core.domain.frete.*</FILTER>
     </SUITE>
-    <SUITE FILE_PATH="coverage/design_pattern$NewsletterTest.ic" NAME="NewsletterTest Coverage Results" MODIFIED="1686789022793" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+    <SUITE FILE_PATH="coverage/design_pattern$NewsletterTest.ic" NAME="NewsletterTest Coverage Results" MODIFIED="1686789703560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>com.design_pattern.application.core.domain.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/design_pattern$All_in_design_pattern__3_.ic" NAME="All in design_pattern (3) Coverage Results" MODIFIED="1685314030287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
